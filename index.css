@@ -1,0 +1,36 @@
+
+            /* header */
+            .header h1{
+                color : green;
+            }
+            .header *{
+                display: inline;
+                padding : 20px 10px 0 10px;
+
+            }
+            .header #menu {
+                color : gray;
+            
+            }
+            .header #sign{
+                margin-left: 120px;
+            }
+            .header #sign button {
+                padding : 0;
+            }
+            /*  */
+            
+
+            /* main - article1 */
+            article h4 p{
+                color: gray;
+            }
+            .class-list{
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            }
+            .review>div {
+                display: inline;
+                background-color: gray;
+                width: 50%;
+            }
